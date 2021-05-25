@@ -96,7 +96,8 @@ margin-top: 4rem;}
 color: hsl(223, 87%, 63%);
 cursor: pointer;
 padding: 0.3rem;
-width: 20px;}
+width: 20px;
+object-fit: scale-down;}
 
 .fab:hover {color: white;
 background:hsl(223, 87%, 63%);}
